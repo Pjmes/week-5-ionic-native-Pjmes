@@ -1,4 +1,7 @@
+/* eslint-env es6 */
+/* eslint-disable */
 import { Injectable } from '@angular/core';
+
 
 @Injectable({
   providedIn: 'root'
